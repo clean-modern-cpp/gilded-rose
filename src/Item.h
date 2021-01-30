@@ -1,5 +1,5 @@
-#ifndef GILDED_ROSE_ITEM_H
-#define GILDED_ROSE_ITEM_H
+#ifndef ITEM_H
+#define ITEM_H
 
 #include <ostream>
 #include <string>
